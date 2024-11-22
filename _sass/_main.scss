@@ -1,0 +1,24 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+.navbar-btn {
+    --bs-btn-font-weight: 600;
+    --bs-btn-color: var(--bs-success);
+    --bs-btn-bg: var(--white);
+    --bs-btn-border-color: var(--bs-success-border-subtle);
+    --bs-btn-hover-color: var(--bs-success);
+    --bs-btn-hover-bg: #{tint-color($success, 80%)};
+    --bs-btn-hover-border-color: #{shade-color($success, 10%)};
+    --bs-btn-focus-shadow-rgb: var(--bs-success-border-subtle);
+    --bs-btn-active-color: var(--bs-btn-hover-color);
+    --bs-btn-active-bg: #{tint-color($success, 60%)};
+    --bs-btn-active-border-color: #{tint-color($success, 60%)};
+    --bs-btn-border-width: 0;
+}
+
+a {
+    color: #{tint-color($success, 20%)};
+}
+
+a:hover {
+    color: #{shade-color($success, 20%)};
+}
