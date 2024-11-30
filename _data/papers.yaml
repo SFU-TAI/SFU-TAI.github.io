@@ -1,0 +1,864 @@
+-
+  title: "The First Prompt Counts the Most! An Evaluation of Large Language Models on Iterative Example-based Code Generation"
+  authors: Yingjie Fu, Bozhou Li, <b>Linyi Li</b>, Wentao Zhang, Tao Xie
+  source: arXiv
+  links:
+    - caption: Full Version
+      link: https://arxiv.org/abs/2411.06774
+  tags:
+    - LLM
+    - prompting
+    - benchmark
+    - code
+  year: Preprint
+  bib: "@article{fu2024first,<br>
+  title={The First Prompt Counts the Most! An Evaluation of Large Language Models on Iterative Example-based Code Generation},<br>
+  author={Fu, Yingjie and Li, Bozhou and Li, Linyi and Zhang, Wentao and Xie, Tao},<br>
+  journal={arXiv preprint arXiv:2411.06774},<br>
+  year={2024}<br>
+}"
+-
+  title: "Unconstrained Model Merging for Enhanced LLM Reasoning"
+  authors: Yiming Zhang, Baoyi He, Shengyu Zhang, Yuhao Fu, Qi Zhou, Zhijie Sang, Zijin Hong, Kejing Yang, Wenjun Wang, Jianbo Yuan, Guanghan Ning, <b>Linyi Li</b>, Chunlin Ji, Fei Wu, Hongxia Yang
+  source: arXiv
+  links:
+    - caption: Full Version
+      link: https://arxiv.org/abs/2410.13699
+  tags:
+    - LLM
+    - merging
+    - reasoning
+  year: Preprint
+  bib: "@article{zhang2024unconstrained,<br>
+  title={Unconstrained Model Merging for Enhanced LLM Reasoning},<br>
+  author={Zhang, Yiming and He, Baoyi and Zhang, Shengyu and Fu, Yuhao and Zhou, Qi and Sang, Zhijie and Hong, Zijin and Yang, Kejing and Wang, Wenjun and Yuan, Jianbo and others},<br>
+  journal={arXiv preprint arXiv:2410.13699},<br>
+  year={2024}<br>
+}"
+-
+  title: "Collapsed Language Models Promote Fairness"
+  authors: Jingxuan Xu, Wuyang Chen, <b>Linyi Li</b>, Yao Zhao, Yunchao Wei
+  source: arXiv
+  links:
+    - caption: Full Version
+      link: https://arxiv.org/abs/2410.04472
+  tags:
+    - LLM
+    - fairness
+  year: Preprint
+  bib: "@article{xu2024collapsed,<br>
+  title={Collapsed Language Models Promote Fairness},<br>
+  author={Xu, Jingxuan and Chen, Wuyang and Li, Linyi and Zhao, Yao and Wei, Yunchao},<br>
+  journal={arXiv preprint arXiv:2410.04472},<br>
+  year={2024}<br>
+}"
+-
+  title: "InfiBench: Evaluating the Question-Answering Capabilities of Code Large Language Models"
+  authors: <b>Linyi Li</b>, Shijie Geng, Zhenwen Li, Yibo He, Hao Yu, Ziyue Hua, Guanghan Ning, Siwei Wang, Tao Xie, Hongxia Yang
+  source: 38th Conference on Neural Information Processing Systems Datasets and Benchmarks Track (NeurIPS 2024 D&B)
+  links:
+    - caption: Full Version
+      link: https://arxiv.org/abs/2404.07940
+    - caption: Conference Version
+      link: https://openreview.net/forum?id=E8EAeyTxOy
+    - caption: Code
+      link: https://github.com/infi-coder/infibench-evaluation-harness/
+    - caption: Project Website
+      link: https://infi-coder.github.io/infibench/
+    - caption: Slides
+      link: /assets/research_slides/infibench_slides.pdf
+  tags:
+    - LLM
+    - benchmark
+    - code
+  year: 2024
+  bib: "@inproceedings{<br>
+li2024infibench,<br>
+title={InfiBench: Evaluating the Question-Answering Capabilities of Code Large Language Models},<br>
+author={Linyi Li and Shijie Geng and Zhenwen Li and Yibo He and Hao Yu and Ziyue Hua and Guanghan Ning and Siwei Wang and Tao Xie and Hongxia Yang},<br>
+booktitle={The Thirty-eight Conference on Neural Information Processing Systems Datasets and Benchmarks Track},<br>
+year={2024},<br>
+}
+"
+-
+  title: "Effects of Exponential Gaussian Distribution on (Double Sampling) Randomized Smoothing"
+  authors: Youwei Shu, Xi Xiao, Derui Wang, Yuxin Cao, Siji Chen, Jason Xue, <b>Linyi Li</b>, Bo Li
+  source: 41st International Conference on Machine Learning (ICML 2024)
+  links:
+    - caption: Full Version
+      link: https://arxiv.org/abs/2406.02309
+    - caption: Conference Version
+      link: https://proceedings.mlr.press/v235/shu24a.html
+    - caption: Code
+      link: https://github.com/tdano1/eg-on-smoothing
+  tags:
+    - certified ML
+  year: 2024
+  bib: "@inproceedings{shu2024effects,<br>
+  title={Effects of Exponential Gaussian Distribution on (Double Sampling) Randomized Smoothing},<br>
+  author={Shu, Youwei and Xiao, Xi and Wang, Derui and Cao, Yuxin and Chen, Siji and Xue, Jason and Li, Linyi and Li, Bo},<br>
+  booktitle={Forty-first International Conference on Machine Learning},<br>
+  year={2024}<br>
+}
+"
+-
+  title: "COLEP: Certifiably Robust Learning-Reasoning Conformal Prediction via Probabilistic Circuits"
+  authors: Mintong Kang, Nezihe Merve Gürel, <b>Linyi Li</b>, Bo Li.
+  source: 12th International Conference on Learning Representations (ICLR 2024)
+  links:
+    - caption: Full Version
+      link: https://arxiv.org/abs/2403.11348
+    - caption: Conference Version
+      link: https://openreview.net/forum?id=XN6ZPINdSg
+    - caption: Code
+      link: https://github.com/kangmintong/COLEP
+  tags:
+    - certified ML
+    - reasoning
+  year: 2024
+  bib: "@inproceedings{<br>
+kang2024colep,<br>
+title={{COLEP}: Certifiably Robust Learning-Reasoning Conformal Prediction via Probabilistic Circuits},<br>
+author={Mintong Kang and Nezihe Merve G{\"u}rel and Linyi Li and Bo Li},<br>
+booktitle={The Twelfth International Conference on Learning Representations},<br>
+year={2024},<br>
+url={https://openreview.net/forum?id=XN6ZPINdSg}<br>
+}"
+-
+  title: "Pixel-wise Smoothing for Certified Robustness against Camera Motion Perturbations"
+  authors: Hanjiang Hu, Zuxin Liu, <b>Linyi Li</b>, Jiacheng Zhu, Ding Zhao
+  source: 27th International Conference on Artificial Intelligence and Statistics (AISTATS 2024)
+  links:
+    - caption: Full Version
+      link: https://arxiv.org/abs/2309.13150
+    - caption: Conference Version
+      link: https://proceedings.mlr.press/v238/hu24a.html
+    - caption: Code
+      link: https://github.com/HanjiangHu/pixel-wise-smoothing
+  tags:
+    - certified ML
+  year: 2024
+  bib: "@inproceedings{hu2024pixel,<br>
+  title={Pixel-wise Smoothing for Certified Robustness against Camera Motion Perturbations},<br>
+  author={Hu, Hanjiang and Liu, Zuxin and Li, Linyi and Zhu, Jiacheng and Zhao, Ding},<br>
+  booktitle={International Conference on Artificial Intelligence and Statistics},<br>
+  pages={217--225},<br>
+  year={2024},<br>
+  organization={PMLR}<br>
+}"
+-
+  title: "Certifiably Trustworthy Deep Learning Systems at Scale"
+  authors: <b>Linyi Li</b>
+  source: Doctoral Thesis
+  links:
+    - caption: Full Version
+      link: /assets/research_pubs/LI-LINYI-DISSERTATION-2023.pdf
+  tags:
+    - certified ML
+  year: 2023
+  bib: "@phdthesis{li2023thesis,<br>
+    title        = {Certifiably Trustworthy Deep Learning Systems at Scale},<br>
+    author       = {Linyi Li},<br>
+    year         = 2023,<br>
+    month        = {Oct},<br>
+    school       = {University of Illinois Urbana-Champaign},<br>
+    type         = {PhD thesis}<br>
+}"
+-
+  title: "Can Pruning Improve Certified Robustness of Neural Networks?"
+  authors: Zhangheng Li, Tianlong Chen, <b>Linyi Li</b>, Bo Li, Zhangyang Wang
+  source: Transactions on Machine Learning Research (TMLR), 2023
+  links:
+    - caption: Full Version
+      link: https://openreview.net/forum?id=6IFi2soduD
+  year: 2023
+  tags:
+    - certified ML
+    - pruning
+  bib: "@article{<br>
+    li2023can,<br>
+    title={Can Pruning Improve Certified Robustness of Neural Networks?},<br>
+    author={Zhangheng LI and Tianlong Chen and Linyi Li and Bo Li and Zhangyang Wang},<br>
+    journal={Transactions on Machine Learning Research},<br>
+    issn={2835-8856},<br>
+    year={2023},<br>
+    url={https://openreview.net/forum?id=6IFi2soduD},<br>
+  }"
+-
+  title: "SoK: Certified Robustness for Deep Neural Networks"
+  authors: <b>Linyi Li</b>, Tao Xie, Bo Li
+  source: "44th IEEE Symposium on Security and Privacy (SP 2023)"
+  links:
+    - caption: Full Version
+      link: https://arxiv.org/abs/2009.04131
+    - caption: Conference Version
+      link: https://www.computer.org/csdl/proceedings-article/sp/2023/933600a094/1He7XNZytry
+    - caption: Slides
+      link: res/pub/SP2023-presentation.pptx
+    - caption: Code
+      link: https://github.com/AI-secure/VeriGauge
+    - caption: Leaderboard
+      link: https://sokcertifiedrobustness.github.io/
+  node: 1
+  selected: true
+  year: 2023
+  tags:
+    - certified ML
+  tldr:
+    en: A comprehensive systemization of knowledge on DNN certified robustness, including discussion on practical and theoretical implications, findings, main challenges, and future directions, accompanied with an open-source unified platform to evaluate 20+ representative approaches.
+    sim_cn: 对 DNN 可验证稳健性研究的全面系统总结，包括实践和理论上的意义、发现、主要挑战和未来方向的讨论，以及一个开源统一工具箱来评估 20 多种代表性方法。
+    tra_cn: 對 DNN 可驗證穩健性研究的全面系統總結，包括實踐和理論上的意義、發現、主要挑戰和未來方向的討論，以及一個開源統一工具箱來評估 20 多種代表性方法。
+  bib: "@inproceedings{li2023sok,<br>
+    author={Linyi Li and Tao Xie and Bo Li},<br>
+    title     = {SoK: Certified Robustness for Deep Neural Networks},<br>
+    booktitle = {44th {IEEE} Symposium on Security and Privacy, {SP} 2023, San Francisco, CA, USA, 22-26 May 2023},<br>
+    publisher = {{IEEE}},<br>
+    year      = {2023},<br>
+  }"
+-
+  title: "Reliability Assurance for Deep Neural Network Architectures Against Numerical Defects"
+  authors: <b>Linyi Li</b>, Yuhao Zhang, Luyao Ren, Yingfei Xiong, Tao Xie
+  source: 45th IEEE/ACM International Conference on Software Engineering (ICSE 2023)
+  links:
+    - caption: Full Version
+      link: https://arxiv.org/abs/2302.06086
+    - caption: Conference Version
+      link: res/pub/ICSE2023-p75-main.pdf
+    - caption: Slides
+      link: res/pub/ICSE2023-presentation.pptx
+    - caption: Code
+      link: https://github.com/llylly/RANUM
+  year: 2023
+  tags:
+    - certified ML
+    - numerical reliability
+  selected: true
+  node: 38
+  tldr:
+    en: An effective and efficient white-box framework for generic DNN architectures, named RANUM, for certifying numerical reliability (e.g., not output NaN or INF), generating failure-exhibiting system tests, and suggesting fixes, where RANUM is the first automated framework for the last two tasks.
+    sim_cn: 提出了RANUM：一种高效的白盒框架，适用于一般的人工神经网络模型，用于验证数值可靠性（例如，不输出NAN或INF）、面向缺陷触发的系统测试生成和修复生成。其中，RANUM是后两种任务的首个自动化框架。
+    tra_cn: 提出了RANUM：一種高效的白盒框架，適用於一般的人工神經網路模型，用於驗證數值可靠性（例如，不輸出NAN或INF）、面向缺陷觸發的系統測試生成和修復生成。其中，RANUM是後兩種任務的首個自動化框架。
+  bib: "@inproceedings{li2023reliability,<br>
+    author={Linyi Li and Yuhao Zhang and Luyao Ren and Yingfei Xiong and Tao Xie},<br>
+    title = {Reliability Assurance for Deep Neural Network Architectures Against Numerical Defects},<br>
+    booktitle = {45th International Conference on Software Engineering, {ICSE} 2023, Melbourne, Australia, 14-20 May 2023},<br>
+    publisher = {{IEEE/ACM}},<br>
+    year = {2023},<br>
+  }"
+-
+  title: "CARE: Certifiably Robust Learning with Reasoning via Variational Inference"
+  authors: Jiawei Zhang, <b>Linyi Li</b>, Ce Zhang, Bo Li
+  source: First IEEE Conference on Secure and Trustworthy Machine Learning (SatML 2023)
+  links:
+    - caption: Full Version
+      link: https://arxiv.org/abs/2209.05055
+    - caption: Conference Version
+      link: https://openreview.net/forum?id=1n6oWTTV1n
+  year: 2023
+  tags:
+    - certified ML
+    - reasoning
+  bib: "@inproceedings{ <br>
+    zhang2023care, <br>
+    title={{CARE}: Certifiably Robust Learning with Reasoning via Variational Inference}, <br>
+    author={Jiawei Zhang and Linyi Li and Ce Zhang and Bo Li}, <br>
+    booktitle={First IEEE Conference on Secure and Trustworthy Machine Learning}, <br>
+    year={2023}, <br>
+    url={https://openreview.net/forum?id=1n6oWTTV1n} <br>
+}"
+-
+  title: "FaShapley: Fast and Approximated Shapley Based Model Pruning Towards Certifiably Robust DNNs"
+  authors: Mintong Kang, <b>Linyi Li</b>, Bo Li
+  source: First IEEE Conference on Secure and Trustworthy Machine Learning (SatML 2023)
+  links:
+    - caption: Conference Version
+      link: https://openreview.net/forum?id=mJF9_Fs52ut
+  year: 2023
+  tags:
+    - certified ML
+    - pruning
+  bib: "@inproceedings{ <br>
+    kang2023fashapley, <br>
+    title={FaShapley: Fast and Approximated Shapley Based Model Pruning Towards Certifiably Robust {DNN}s}, <br>
+    author={Mintong Kang and Linyi Li and Bo Li}, <br>
+    booktitle={First IEEE Conference on Secure and Trustworthy Machine Learning}, <br>
+    year={2023}, <br>
+    url={https://openreview.net/forum?id=mJF9_Fs52ut} <br>
+}"
+-
+  title: Certifying Some Distributional Fairness with Subpopulation Decomposition
+  authors: Mintong Kang*, <b>Linyi Li</b>*, Maurice Weber, Yang Liu, Ce Zhang, Bo Li
+  source: Advances in Neural Information Processing Systems (NeurIPS) 2022
+  links:
+    - caption: Full Version
+      link: https://arxiv.org/abs/2205.15494
+    - caption: Conference Version
+      link: https://openreview.net/forum?id=6mej19W1ppP
+    - caption: Code
+      link: https://github.com/AI-secure/Certified-Fairness
+    - caption: Poster
+      link: /assets/research_pubs/Fairness_NeurIPS22.pdf
+  node: 35
+  selected: true
+  year: 2022
+  tags:
+    - certified ML
+    - fairness
+  tldr:
+    en: A practical and scalable certification approach to provide fairness bound for a given model when distribution shifts from training, based on subpopulation decomposition.
+    sim_cn: 一种新的实用且可扩展的验证算法，当分布从训练偏移时，为给定模型提供公平性保证，基于统计亚群分解。
+    tra_cn: 一種新的實用且可擴展的驗證算法，當分佈從訓練偏移時，為給定模型提供公平性保證，基於統計亞群分解。
+  bib: "@inproceedings{kang2022certifying, <br>
+    title = 	 {Certifying Some Distributional Fairness with Subpopulation Decomposition}, <br>
+    author =       {Mintong Kang and Linyi Li and Maurice Weber and Yang Liu and Ce Zhang and Bo Li}, <br>
+    booktitle = 	 {Advances in Neural Information Processing Systems 35 (NeurIPS 2022)}, <br>
+    year = 	 {2022} <br>
+  }"
+
+-
+  title: "LOT: Layer-wise Orthogonal Training on Improving \\(\\ell_2\\) Certified Robustness"
+  authors: Xiaojun Xu, <b>Linyi Li</b>, Bo Li
+  source: Advances in Neural Information Processing Systems (NeurIPS) 2022
+  links:
+    - caption: Full Version
+      link: https://arxiv.org/abs/2210.11620
+    - caption: Conference Version
+      link: https://openreview.net/forum?id=ZBlaix34YX
+    - caption: Code
+      link: https://github.com/AI-secure/Layerwise-Orthogonal-Training
+  year: 2022
+  tags:
+    - certified ML
+  bib: "@inproceedings{xu2022lot, <br>
+    title = 	 {LOT: Layer-wise Orthogonal Training on Improving l2 Certified Robustness}, <br>
+    author =       {Xiaojun Xu and Linyi Li and Bo Li}, <br>
+    booktitle = 	 {Advances in Neural Information Processing Systems 35 (NeurIPS 2022)}, <br>
+    year = 	 {2022} <br>
+  }"
+
+-
+  title: Fairness in Federated Learning via Core-Stability
+  authors: Bhaskar Ray Chaudhury, <b>Linyi Li</b>, Mintong Kang, Bo Li, Ruta Mehta
+  source: Advances in Neural Information Processing Systems (NeurIPS) 2022
+  links:
+    - caption: Full Version
+      link: https://arxiv.org/abs/2211.02091
+    - caption: Conference Version
+      link: https://openreview.net/forum?id=lKULHf7oFDo
+    - caption: Code
+      link: https://openreview.net/attachment?id=lKULHf7oFDo&name=supplementary_material
+    - caption: Poster
+      link: /assets/research_pubs/FairML_Poster_NeurIPS22.pdf
+  year: 2022
+  tags:
+    - fairness
+  bib: "@inproceedings{bhaskar2022fairness, <br>
+    title = 	 {Fairness in Federated Learning via Core-Stability}, <br>
+    author =       {Bhaskar Ray Chaudhury and Linyi Li and Mintong Kang and Bo Li and Ruta Mehta}, <br>
+    booktitle = 	 {Advances in Neural Information Processing Systems 35 (NeurIPS 2022)}, <br>
+    year = 	 {2022} <br>
+  }"
+
+- 
+  title: General Cutting Planes for Bound-Propagation-Based Neural Network Verification
+  authors: Huan Zhang*, Shiqi Wang*, Kaidi Xu*, <b>Linyi Li</b>, Bo Li, Suman Jana, Cho-Jui Hsieh, J. Zico Kolter
+  source: Advances in Neural Information Processing Systems (NeurIPS) 2022
+  links:
+    - caption: Full Version
+      link: "https://arxiv.org/abs/2208.05740"
+    - caption: Conference Version
+      link: "https://openreview.net/forum?id=5haAJAcofjc"
+    - caption: Code
+      link: "https://github.com/tcwangshiqi-columbia/GCP-CROWN"
+    - caption: Poster
+      link: /assets/research_pubs/GCP_CROWN_Poster_NeurIPS22.pdf
+  year: 2022
+  tags:
+    - certified ML
+  bib: "@inproceedings{zhang2022general, <br>
+    title = 	 {General Cutting Planes for Bound-Propagation-Based Neural Network Verification}, <br>
+    author =       {Huan Zhang and Shiqi Wang and Kaidi Xu and Linyi Li and Bo Li and Suman Jana and Cho-Jui Hsieh and J. Zico Kolter}, <br>
+    booktitle = 	 {Advances in Neural Information Processing Systems 35 (NeurIPS 2022)}, <br>
+    year = 	 {2022} <br>
+  }"
+
+-
+  title: Improving Certified Robustness via Statistical Learning with Logical Reasoning
+  authors: Zhuolin Yang*, Zhikuan Zhao*, Boxin Wang, Jiawei Zhang, <b>Linyi Li</b>, Hengzhi Pei, Bojan Karlaš, Ji Liu, Heng Guo, Ce Zhang, Bo Li
+  source: Advances in Neural Information Processing Systems (NeurIPS) 2022
+  links:
+    - caption: Full Version
+      link: "https://arxiv.org/abs/2003.00120"
+    - caption: Conference Version
+      link: https://openreview.net/forum?id=fY6OzqOiTnu
+    - caption: Code
+      link: https://github.com/Sensing-Reasoning/Sensing-Reasoning-Pipeline
+  year: 2022
+  tags:
+    - certified ML
+    - reasoning
+  bib: "@inproceedings{yang2022improving, <br>
+    title = 	 {Improving Certified Robustness via Statistical Learning with Logical Reasoning}, <br>
+    author =       {Zhuolin Yang and Zhikuan Zhao and Boxin Wang and Jiawei Zhang and Linyi Li and Hengzhi Pei and Bojan Karlaš and Ji Liu and Heng Guo and Ce Zhang and Bo Li}, <br>
+    booktitle = 	 {Advances in Neural Information Processing Systems 35 (NeurIPS 2022)}, <br>
+    year = 	 {2022} <br>
+  }"
+
+-
+  title: "Robustness Certification of Visual Perception Models via Camera Motion Smoothing"
+  authors: Hanjiang Hu, Zuxin Liu, <b>Linyi Li</b>, Jiacheng Zhu, Ding Zhao
+  source: "6th Annual Conference on Robot Learning (CoRL 2022)"
+  links:
+    - caption: Paper
+      link: https://openreview.net/pdf?id=uUxDTZK3o3X
+    - caption: Forum
+      link: https://openreview.net/forum?id=uUxDTZK3o3X
+    - caption: Code
+      link: https://openreview.net/attachment?id=uUxDTZK3o3X&name=supplementary_material
+  year: 2022
+  tags:
+    - certified ML
+  bib: "@inproceedings{<br>
+    hu2022robustness,<br>
+    title={Robustness Certification of Visual Perception Models via Camera Motion Smoothing},<br>
+    author={Hanjiang Hu and Zuxin Liu and Linyi Li and Jiacheng Zhu and Ding Zhao},<br>
+    booktitle={6th Annual Conference on Robot Learning},<br>
+    year={2022},<br>
+    url={https://openreview.net/forum?id=uUxDTZK3o3X}<br>
+    }"
+
+-
+  title: "Double Sampling Randomized Smoothing"
+  authors: <b>Linyi Li</b>, Jiawei Zhang, Tao Xie, Bo Li
+  source: "39th International Conference on Machine Learning (ICML 2022)"
+  links:
+    - caption: Conference Version
+      link: "/assets/research_pubs/DSRS-ICML22.pdf"
+    - caption: Full Version
+      link: "https://arxiv.org/abs/2206.07912"
+    - caption: Code
+      link: "https://github.com/llylly/DSRS"
+  node: 32
+  selected: true
+  year: 2022
+  tags:
+    - certified ML
+  tldr:
+    en: A tighter certification approach for randomized smoothing, that for the first time circumvents the well-known curse of dimensionality under mild conditions by leveraging statistics from two strategically-chosen distributions.
+    sim_cn: 对随机平滑化方法的一种更紧的验证算法，其首次利用来自两种不同分布的统计数据，来实现更紧的稳健性界，并在宽松条件下首次突破众所周知的维数陷阱。
+    tra_cn: 對隨機平滑化方法的一種更緊的驗證算法，其首次利用來自兩種不同分佈的統計數據，來實現更緊的穩健性界，並在寬鬆條件下首次突破眾所周知的維數陷阱。
+  bib: "@inproceedings{<br>
+    li2022double,<br>
+    title={Double Sampling Randomized Smoothing},<br>
+    author={Linyi Li and Jiawei Zhang and Tao Xie and Bo Li},<br>
+    booktitle={39th International Conference on Machine Learning (ICML 2022)},<br>
+    year={2022},<br>
+  }"
+
+-
+  title: "TPC: Transformation-Specific Smoothing for Point Cloud Models"
+  authors: Wenda Chu, <b>Linyi Li</b>, Bo Li
+  source: "39th International Conference on Machine Learning (ICML 2022)"
+  links:
+    - caption: Full Version
+      link: "https://arxiv.org/abs/2201.12733"
+    - caption: Code
+      link: "https://github.com/Qianhewu/Point-Cloud-Smoothing"
+  node: 36
+  # selected: true
+  year: 2022
+  tags:
+    - certified ML
+  tldr:
+    en: By extending the methodology for certifying image classifiers against transformations, we provide state-of-the-art certification algorithms for point cloud models with detailed point cloud transformation analyses.
+    sim_cn: 通过扩展对图像分类模型的稳健性验证算法，我们为点云模型提供了最先进的关于几何变换意义下的稳健性验证算法，其核心思想基于对点云几何变换的解析性分析。
+    tra_cn: 通過擴展對圖像分類模型的穩健性驗證算法，我們為點雲模型提供了最先進的關於幾何變換意義下的穩健性驗證算法，其核心思想基於對點雲幾何變換的解析性分析。
+  bib: "@inproceedings{<br>
+    chu2022tpc,<br>
+    title={TPC: Transformation-Specific Smoothing for Point Cloud Models},<br>
+    author={Wenda Chu and Linyi Li and Bo Li},<br>
+    booktitle={39th International Conference on Machine Learning (ICML 2022)},<br>
+    year={2022},<br>
+  }"
+
+-
+  title: "Certifying Out-of-Domain Generalization for Blackbox Functions"
+  authors: Maurice Weber, <b>Linyi Li</b>, Boxin Wang, Zhikuan Zhao, Bo Li, Ce Zhang
+  source: "39th International Conference on Machine Learning (ICML 2022)"
+  links:
+    - caption: Conference Version
+      link: "/assets/research_pubs/Gramian-ICML22.pdf"
+    - caption: Full Version
+      link: "https://arxiv.org/abs/2202.01679"
+    - caption: Code
+      link: "https://github.com/DS3Lab/certified-generalization"
+  tags:
+    - certified ML
+  tldr:
+    en: A scalable certification algorithm for model generalization against distributional shift which requires no assumption on the model's architecture, as long as the distributional shift is bounded by Hellinger distance, a type of f-divergence. Core methodology is based on the positive semidefinite property of Gramian matrix.
+    sim_cn: 一种针对分布偏移的模型泛化的高效验证算法，它不需要对模型的架构进行假设，只要分布偏移受 Hellinger 距离（一种f散度）的限制。核心方法基于 Gramian 矩阵的半正定性质。
+    tra_cn: 一種針對分佈偏移的模型泛化的高效驗證算法，它不需要對模型的架構進行假設，只要分佈偏移受 Hellinger 距離（一種f散度）的限制。核心方法基於 Gramian 矩陣的半正定性質。
+  node: 34
+  # selected: true
+  year: 2022
+  bib: "@inproceedings{<br>
+    weber2022certifying,<br>
+    title={Certifying Out-of-Domain Generalization for Blackbox Functions},<br>
+    author={Maurice Weber and Linyi Li and Boxin Wang and Zhikuan Zhao and Bo Li and Ce Zhang},<br>
+    booktitle={39th International Conference on Machine Learning (ICML 2022)},<br>
+    year={2022},<br>
+  }"
+
+-
+  title: "COPA: Certifying Robust Policies for Offline Reinforcement Learning against Poisoning Attacks"
+  authors: Fan Wu*, <b>Linyi Li</b>*, Chejian Xu, Huan Zhang, Bhavya Kailkhura, Krishnaram Kenthapadi, Ding Zhao, Bo Li
+  source: "10th International Conference on Learning Representations (ICLR 2022)"
+  links:
+    - caption: Conference Version
+      link: "https://openreview.net/forum?id=psh0oeMSBiF"
+    - caption: Full Version
+      link: "https://arxiv.org/abs/2203.08398"
+    - caption: Leaderboard
+      link: https://copa-leaderboard.github.io/
+    - caption: Code
+      link: https://github.com/AI-secure/COPA
+  node: 37
+  selected: true
+  year: 2022
+  tags:
+    - certified ML
+    - deep reinforcement learning
+  tldr:
+    en: The first approach for certifying deep RL robustness against offline training dataset perturbations, i.e., poisoning attacks, by aggregating over policies trained on partitioned datasets and policies for multiple time steps.
+    sim_cn: 通过聚合在分区数据集上训练的策略和多重步骤下的策略，实现可验证的深度强化学习对离线训练数据集扰动（即荼毒攻击）的稳健性。
+    tra_cn: 通過聚合在分區數據集上訓練的策略和多重步驟下的策略，實現可驗證的深度強化學習對離線訓練數據集擾動（即荼毒攻擊）的穩健性。
+  bib: "@inproceedings{<br>
+    wu2022copa,<br>
+    title={{COPA}: Certifying Robust Policies for Offline Reinforcement Learning against Poisoning Attacks},<br>
+    author={Fan Wu and Linyi Li and Chejian Xu and Huan Zhang and Bhavya Kailkhura and Krishnaram Kenthapadi and Ding Zhao and Bo Li},<br>
+    booktitle={International Conference on Learning Representations},<br>
+    year={2022},<br>
+    url={https://openreview.net/forum?id=psh0oeMSBiF}<br>
+  }"
+
+-
+  title: "On the Certified Robustness for Ensemble Models and Beyond"
+  authors: Zhuolin Yang*, <b>Linyi Li</b>*, Xiaojun Xu, Bhavya Kailkhura, Tao Xie, Bo Li
+  source: "10th International Conference on Learning Representations (ICLR 2022)"
+  links:
+    - caption: Conference Version
+      link: "https://openreview.net/forum?id=tUa4REjGjTf"
+    - caption: Full Version
+      link: https://arxiv.org/abs/2107.10873
+    - caption: Code
+      link: https://openreview.net/attachment?id=tUa4REjGjTf&name=supplementary_material
+  node: 31
+  selected: true
+  year: 2022
+  tags:
+    - certified ML
+  tldr:
+    en: Based on a curvature bound for randomized smoothing based classifiers, we prove that large confidence margin and gradient diversity are sufficient and necessary condition for certifiably robust ensembles. By regularizing these two factors, we acheive SOTA L2 certified robustness.
+    sim_cn: 基于随机平滑分类器的曲率界，我们证明了大的分类概率差和梯度多样性对于可验证的稳健集成模型是充分必要的条件。通过约束这两个因素，我们实现了目前为止最佳的 L2 范数扰动下的稳健性。
+    tra_cn: 基於隨機平滑分類器的曲率界，我們證明了大的分類概率差和梯度多樣性對於可驗證的穩健集成模型是充分必要的條件。通過約束這兩個因素，我們實現了目前為止最佳的 L2 範數擾動下的穩健性。
+  bib: "@inproceedings{<br>
+    yang2022on,<br>
+    title={On the Certified Robustness for Ensemble Models and Beyond},<br>
+    author={Zhuolin Yang and Linyi Li and Xiaojun Xu and Bhavya Kailkhura and Tao Xie and Bo Li},<br>
+    booktitle={International Conference on Learning Representations},<br>
+    year={2022},<br>
+    url={https://openreview.net/forum?id=tUa4REjGjTf}<br>
+  }"
+-
+  title: "CROP: Certifying Robust Policies for Reinforcement Learning through Functional Smoothing"
+  authors: Fan Wu, <b>Linyi Li</b>, Zijian Huang, Yevgeniy Vorobeychik, Ding Zhao, Bo Li
+  source: "10th International Conference on Learning Representations (ICLR 2022)"
+  node: 37
+  # selected: true
+  year: 2022
+  links:
+    - caption: Conference Version
+      link: "https://openreview.net/forum?id=HOjLHrlZhmx"
+    - caption: Full Version
+      link: https://arxiv.org/abs/2106.09292
+    - caption: Leaderboard
+      link: https://crop-leaderboard.me/
+    - caption: Code
+      link: https://github.com/AI-secure/CROP
+  tags:
+    - certified ML
+    - deep reinforcement learning
+  tldr:
+    en: The first scalable approach for certifying deep RL robustness against state perturbations, by combining randomized smoothing with a set of trajectory-based search algorithms.
+    sim_cn: 通过将随机平滑化方法与一组基于轨迹的搜索算法相结合，我们提出了第一个用于验证深度强化学习对状态扰动的稳健性的高效算法。
+    tra_cn: 通過將隨機平滑化方法與一組基於軌蹟的搜索算法相結合，我們提出了第一個用於驗證深度強化學習對狀態擾動的穩健性的高效算法。
+  bib: "@inproceedings{<br>
+    wu2022crop,<br>
+    title={{CROP}: Certifying Robust Policies for Reinforcement Learning through Functional Smoothing},<br>
+    author={Fan Wu and Linyi Li and Zijian Huang and Yevgeniy Vorobeychik and Ding Zhao and Bo Li},<br>
+    booktitle={International Conference on Learning Representations},<br>
+    year={2022},<br>
+    url={https://openreview.net/forum?id=HOjLHrlZhmx}<br>
+  }"
+-
+  title: "SapientML: Synthesizing Machine Learning Pipelines by Learning from Human-Written Solutions"
+  authors: Ripon Saha, Akira Ura, Sonal Mahajan, Chenguang Zhu, <b>Linyi Li</b>, Yang Hu, Hiroaki Yoshida, Sarfraz Khurshid, Mukul R. Prasad
+  source: 44th International Conference on Software Engineering (ICSE 2022)
+  links:
+    - caption: Conference Version
+      link: res/pub/SapientML-ICSE2022-CR-Extended.pdf
+    - caption: Full Version
+      link: "https://arxiv.org/abs/2202.10451"
+  year: 2022
+  tags:
+    - autoML
+  bib: "@inproceedings{saha2022sapientml, <br>
+    title={SapientML: synthesizing machine learning pipelines by learning from human-written solutions}, <br>
+    author={Ripon Saha, Akira Ura, Sonal Mahajan, Chenguang Zhu, Linyi Li, Yang Hu, Hiroaki Yoshida, Sarfraz Khurshid, Mukul R. Prasad}, <br>
+    booktitle={2022 IEEE/ACM 44th International Conference on Software Engineering (ICSE)}, <br>
+    year={2022}, <br>
+    organization={IEEE} <br>
+  }"
+-
+  title: "TRS: Transferability Reduced Ensemble via Promoting Gradient Diversity and Model Smoothness"
+  authors: Zhuolin Yang*, <b>Linyi Li</b>*, Xiaojun Xu*, Shiliang Zuo, Qian Chen, Pan Zhou, Benjamin I. P. Rubinstein, Ce Zhang, Bo Li
+  source: Advances in Neural Information Processing Systems (NeurIPS) 2021
+  links:
+    - caption: Conference Version
+      link: "https://proceedings.neurips.cc/paper/2021/hash/937936029af671cf479fa893db91cbdd-Abstract.html"
+    - caption: Full Version
+      link: https://arxiv.org/abs/2104.00671
+    - caption: Code
+      link: https://github.com/AI-secure/Transferability-Reduced-Smooth-Ensemble
+  year: 2021
+  selected: true
+  node: 31
+  tags:
+    - robust ML
+  tldr:
+    en: We prove the guaranteed correlation between model diversity and adversarial transferabiltiy given bounded model smoothness, which leads to a strong regularizer that achieves SOTA ensemble robustness against existing strong attacks.
+    sim_cn: 我们证明了给定有界模型平滑度下，模型的多样性和对抗样本可迁移性之间的相关性，基于此，我们提出了强大的正则化器，该正则化器对集成模型实现了针对现有强攻击的最佳稳健性。
+    tra_cn: 我們證明了給定有界模型平滑度下，模型的多樣性和對抗樣本可遷移性之間的相關性，基於此，我們提出了強大的正則化器，該正則化器對集成模型實現了針對現有強攻擊的最佳穩健性。
+  bib: "@inproceedings{yangli2021trs, <br>
+    title = 	 {TRS: Transferability Reduced Ensemble via Promoting Gradient Diversity and Model Smoothness}, <br>
+    author =       {Zhuolin Yang and Linyi Li and Xiaojun Xu and Shiliang Zuo and Qian Chen and Pan Zhou and Benjamin I. P. Rubinstein and Ce Zhang and Bo Li}, <br>
+    booktitle = 	 {Advances in Neural Information Processing Systems 34 (NeurIPS 2021)}, <br>
+    year = 	 {2021} <br>
+  }"
+- 
+  title: "Progressive-Scale Boundary Blackbox Attack via Projective Gradient Estimation"
+  authors: Jiawei Zhang*, <b>Linyi Li</b>*, Huichen Li, Xiaolu Zhang, Shuang Yang, Bo Li
+  source: International Conference on Machine Learning (ICML) 2021
+  links:
+    - caption: Conference Version
+      link: https://proceedings.mlr.press/v139/zhang21l.html
+    - caption: Full Version
+      link: https://arxiv.org/abs/2106.06056
+    - caption: Code
+      link: https://github.com/AI-secure/PSBA
+    - caption: Slides
+      link: res/pub/PSBA-ICML21-slides.pdf
+  selected: true
+  year: 2021
+  tags:
+    - attacks for ML
+  tldr:
+    en: We systematically analyzed the gradient estimator that guides black-box attacks for DNNs, which reveals several key factors that can lead to more accurate gradient estimation with fewer queries. One way to realize these key factors is to conduct the attack with gradient estimation on a particularly scaled version of the image, which leads to the PSBA black-box attack with SOTA query effciency.
+    sim_cn: 我们系统地分析了指导 DNN 的黑盒攻击的梯度估计器，它揭示了几个关键因素，这些因素可以用更少的查询实现更准确的梯度估计。实现这些关键因素的一种方法是对特定分辨率的图像进行梯度估计以生成攻击样本，基于此，我们提出的 PSBA 方法实现了目前为止最佳的攻击效率。
+    tra_cn: 我們系統地分析了指導 DNN 的黑盒攻擊的梯度估計器，它揭示了幾個關鍵因素，這些因素可以用更少的查詢實現更準確的梯度估計。實現這些關鍵因素的一種方法是對特定解析度的圖像進行梯度估計以生成攻擊樣本，基於此，我們提出的 PSBA 方法實現了目前為止最佳的攻擊效率。
+  bib: "@inproceedings{zhangli2021progressive, <br>
+    title = 	 {Progressive-Scale Boundary Blackbox Attack via Projective Gradient Estimation}, <br>
+    author =       {Zhang, Jiawei and Li, Linyi and Li, Huichen and Zhang, Xiaolu and Yang, Shuang and Li, Bo}, <br>
+    booktitle = 	 {Proceedings of the 38th International Conference on Machine Learning (ICML 2021)}, <br>
+    pages = 	 {12479--12490}, <br>
+    year = 	 {2021}, <br>
+    editor = 	 {Meila, Marina and Zhang, Tong}, <br>
+    volume = 	 {139}, <br>
+    series = 	 {Proceedings of Machine Learning Research}, <br>
+    month = 	 {18--24 Jul}, <br>
+    publisher =    {PMLR}, <br>
+  }"
+- 
+  title: "TSS: Transformation-Specific Smoothing for Robustness Certification"
+  authors: <b>Linyi Li</b>*, Maurice Weber*, Xiaojun Xu, Luka Rimanic, Bhavya Kailkhura, Tao Xie, Ce Zhang, Bo Li
+  source: ACM Conference on Computer and Communications Security (CCS) 2021
+  links:
+    - caption: Conference Version
+      link: res/pub/TSS-CCS21.pdf
+    - caption: Full Version
+      link: https://arxiv.org/abs/2002.12398
+    - caption: Code
+      link: https://github.com/AI-secure/semantic-randomized-smoothing
+    - caption: Slides
+      link: res/pub/TSS-CCS21-slides.pdf
+  node: 33
+  selected: true
+  year: 2021
+  tags:
+    - certified ML
+  tldr:
+    en: Natural transformations such as rotation and scaling are common in the physical world. We propose the first scalable certification approach against natural transformations based on randomzied smoothing, rigorous Lipschitz analysis, and stratified sampling. For the first time, we certify non-trivial robustness (>30% certified robust accuracy) on the large-scale ImageNet dataset.
+    sim_cn: 旋转和缩放等变换在自然世界中很常见。 我们提出了第一个基于随机平滑、严格的 Lipschitz 分析和分层抽样的针对自然变换的高效稳健性验证方法。 我们首次在大规模 ImageNet 数据集上实现了较高的可验证稳健性（> 30% 的可验证稳健分类准确率）。
+    tra_cn: 旋轉和縮放等變換在自然世界中很常見。我們提出了第一個基於隨機平滑、嚴格的 Lipschitz 分析和分層抽樣的針對自然變換的高效穩健性驗證方法。我們首次在大規模 ImageNet 數據集上實現了較高的可驗證穩健性（> 30% 的可驗證穩健分類準確率）。
+  bib: "@inproceedings{li2021tss,<br>
+    title={TSS: Transformation-Specific Smoothing for Robustness Certification}, <br>
+    author={Linyi Li and Maurice Weber and Xiaojun Xu and Luka Rimanic and Bhavya Kailkhura and Tao Xie and Ce Zhang and Bo Li}, <br>
+    year={2021}, <br>
+    booktitle={ACM Conference on Computer and Communications Security (CCS 2021)} <br>
+  }"
+-
+  title: "Nonlinear Projection Based Gradient Estimation for Query Efficient Blackbox Attacks"
+  authors: Huichen Li*, <b>Linyi Li</b>*, Xiaojun Xu, Xiaolu Zhang, Shuang Yang, Bo Li
+  source: International Conference on Artificial Intelligence and Statistics (AISTATS) 2021
+  links:
+    - caption: Conference Version
+      link: https://proceedings.mlr.press/v130/li21f.html
+    - caption: Full Version
+      link: https://arxiv.org/abs/2102.13184
+    - caption: Code
+      link: https://github.com/AI-secure/NonLinear-BA
+  selected: true
+  year: 2021
+  tags:
+    - attacks for ML
+  tldr:
+    en: We analyze the outcome of using nonlinear projections for black-box gradient-estimation-based attacks, which shows that proper nonlinear projections can help to improve the attack efficiency.
+    sim_cn: 我们从理论上分析了使用非线性投影进行基于黑盒梯度估计的攻击效率，这表明适当的非线性投影可以帮助提高攻击效率。
+    tra_cn: 我們從理論上分析了使用非線性投影進行基於黑盒梯度估計的攻擊效率，這表明適當的非線性投影可以幫助提高攻擊效率。
+  bib: "@inproceedings{li2020nolinear,<br>
+    title={Nonlinear Gradient Estimation for Query Efficient Blackbox Attack}, <br>
+    author={Huichen Li and Linyi Li and Xiaojun Xu and Xiaolu Zhang and Shuang Yang and Bo Li},<br>
+    year={2021},<br>
+    booktitle = {International Conference on Artificial Intelligence and Statistics (AISTATS 2021)},<br>
+    series = {Proceedings of Machine Learning Research},<br>
+    month = {13--15 Apr}, <br>
+    publisher = {PMLR},<br>
+  }"
+# -
+#   title: "On the Limitations of Denoising Strategies as Adversarial Defenses"
+#   authors: Zhonghan Niu, Zhaoxi Chen, <b>Linyi Li</b>, Yubin Yang, Bo Li, Jinfeng Yi
+#   source: "arXiv: 2012.09384"
+#   links:
+#     - caption: Paper
+#       link: https://arxiv.org/abs/2012.09384
+#   bib: "@article{niu2020limitations,<br>
+#     title={On the Limitations of Denoising Strategies as Adversarial Defenses},<br>
+#     author={Zhonghan Niu and Zhaoxi Chen and Linyi Li and Yubin Yang and Bo Li and Jinfeng Yi},<br>
+#     journal={arXiv},<br>
+#     year={2020},<br>
+#     volume={abs/2012.09384}<br>
+#   }"
+- 
+  title: Clustering Test Steps in Natural Language toward Automating Test Automation
+  authors: <b>Linyi Li</b>, Zhenwen Li, Weijie Zhang, Jun Zhou, Pengcheng Wang, Jing Wu, Guanghua He, Xia Zeng, Yuetang Deng, Tao Xie
+  source: ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE) 2020, Industry Track
+  links:
+    - caption: Paper
+      link: res/pub/clustep-fse2020ind.pdf
+    - caption: Video
+      link: https://www.youtube.com/watch?v=6hd0o28vo0g
+  year: Before 2021
+  tags:
+    - ML for software testing
+  selected: true
+  tldr:
+    en: We provide an effective pipeline to cluster test steps in natural language and then synthesize executable test cases, deployed for WeChat testing.
+    sim_cn: 我们提出了一种高效的流水线，通过对自然语言描述的测试步骤进行聚类，以生成可执行的测试用例，已部署用于微信测试。
+    tra_cn: 我們提出了一種高效的流水線，通過對自然語言描述的測試步驟進行聚類，以生成可執行的測試用例，已部署用於微信測試。
+  bib: "@inproceedings{li2020clustep,<br>
+    title     = {Clustering Test Steps in Natural Language toward Automating Test Automation},<br>
+    author    = {Li, Linyi and Li, Zhenwen and Zhang, Weijie and Zhou, Jun and Wang, Pengcheng and Wu, Jing and He, Guanghua and Zeng, Xia and Deng, Yuetang and Xie, Tao},<br>
+    booktitle = {Proceedings of the 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering {(ESEC/FSE 2020)}},<br>
+    year      = {2020},<br>
+    doi       = {10.1145/3368089.3417067},<br>
+    url       = {https://doi.org/10.1145/3368089.3417067}<br>
+  }"
+-
+  title: "Robustra: Training Provable Robust Neural Networks over Reference Adversarial Space"
+  authors: <b>Linyi Li</b>*, Zexuan Zhong*, Bo Li, Tao Xie
+  source: International Joint Conference on Artificial Intelligence (IJCAI) 2019
+  links:
+    - caption: Paper
+      link: /assets/research_pubs/robustra-ijcai19.pdf
+    - caption: Code
+      link: https://github.com/llylly/Robustra
+  node: 31
+  selected: true
+  year: Before 2021
+  tags:
+    - certified ML
+  tldr:
+    en: We propose a training method for achieving certified robustness by regularizing only within the reference adversarial space from a jointly trained model to alleviate the optimization hardness and achieve higher certified robustness.
+    sim_cn: 我们提出了一种通过仅在联合训练模型的参考对抗空间内进行正则化来实现可验证稳健性的训练方法，以减轻优化难度并获得更高的可验证稳健性。
+    tra_cn: 我們提出了一種通過僅在聯合訓練模型的參考對抗空間內進行正則化來實現可驗證穩健性的訓練方法，以減輕優化難度並獲得更高的可驗證穩健性。
+  bib: "@inproceedings{li2019robustra,<br>
+    title     = {Robustra: Training Provable Robust Neural Networks over Reference Adversarial Space},<br>
+    author    = {Li, Linyi and Zhong, Zexuan and Li, Bo and Xie, Tao},<br>
+    booktitle = {Proceedings of the Twenty-Eighth International Joint Conference on
+                Artificial Intelligence (IJCAI 2019)},<br>
+    publisher = {International Joint Conferences on Artificial Intelligence Organization},    <br>         
+    pages     = {4711--4717},<br>
+    year      = {2019},<br>
+    month     = {7},<br>
+    doi       = {10.24963/ijcai.2019/654},<br>
+    url       = {https://doi.org/10.24963/ijcai.2019/654}<br>
+  }"
+-
+  title: Influence-Directed Explanations for Deep Convolutional Networks
+  authors: Klas Leino, Shayak Sen, Anupam Datta, Matt Fredrikson, <b>Linyi Li</b>
+  source: "IEEE International Test Conference (ITC) 2018"
+  links:
+    - caption: Paper
+      link: https://arxiv.org/abs/1802.03788
+  year: Before 2021
+  tags:
+    - intepretable ML
+    - undergrad research
+  bib: "@inproceedings{leino2018influence,<br>
+    author={Leino, Klas and Sen, Shayak and Datta, Anupam and Fredrikson, Matt and Li, Linyi},<br>
+    booktitle={2018 IEEE International Test Conference (ITC)}, <br>
+    title={Influence-Directed Explanations for Deep Convolutional Networks}, <br>
+    year={2018},<br>
+    pages={1-8},<br>
+  }"
+-
+  title: A Model-Based Framework For Cloud API Testing
+  authors: Junyi Wang, Xiaoying Bai, <b>Linyi Li</b>, Zhicheng Ji, Haoran Ma
+  source: IEEE 41st Annual Computer Software and Applications Conference (COMPSAC) 2017
+  links:
+    - caption: Paper
+      link: /assets/research_pubs/cloudapicomspac17.pdf
+  year: Before 2021
+  tags:
+    - software testing
+    - undergrad research
+  bib: "@inproceedings{wang2017model, <br>
+    author={Wang, Junyi and Bai, Xiaoying and Li, Linyi and Ji, Zhicheng and Ma, Haoran}, <br>
+    booktitle={2017 IEEE 41st Annual Computer Software and Applications Conference (COMPSAC)}, <br>
+    title={A Model-Based Framework for Cloud API Testing}, <br>
+    year={2017}, <br>
+    volume={2}, <br>
+    pages={60-65}, <br>
+    doi={10.1109/COMPSAC.2017.24}, <br>
+    ISSN={0730-3157}, <br>
+    month={July}, <br>
+  }"
+-
+  title: Cloud API Testing
+  authors: Junyi Wang, Xiaoying Bai, Haoran Ma, <b>Linyi Li</b>, Zhicheng Ji
+  source: IEEE International Conference on Software Verification and Validation Workshops (ICSTW) 2017
+  links:
+    - caption: Paper
+      link: /assets/research_pubs/cloudapiicstw17.pdf
+  year: Before 2021
+  tags:
+    - software testing
+    - undergrad research
+  bib: "@inproceedings{wang2017cloud,<br>
+    title={Cloud API testing},<br>
+    author={Wang, Junyi and Bai, Xiaoying and Ma, Haoran and Li, Linyi and Ji, Zhicheng},<br>
+    booktitle={2017 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)},<br>
+    pages={385--386},<br>
+    year={2017},<br>
+    organization={IEEE}<br>
+  }"
