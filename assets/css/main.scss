@@ -5,7 +5,7 @@
 
 @keyframes fadeInUp {
     0% {
-      transform: translateY(100%);
+      transform: translateY(100px);
       opacity: 0;
     }
     100% {
@@ -21,3 +21,82 @@
 .main_container {
   margin-top: 1.5rem;
 }
+
+.mission-card-title {
+  color: var(--bs-success);
+  background-color: #{tint-color($success, 90%)};
+}
+
+.card-title {
+  color: var(--bs-success);
+}
+
+.navbar-brand >span:hover {
+  color: var(--bs-success);
+}
+
+.research-div:hover {
+  background-color: #{tint-color($black, 97%)};
+}
+
+.card {
+  margin-bottom: 10px;
+}
+
+.peoplepage h4 {
+  color: var(--bs-success);
+}
+
+.anchorjs-link {
+  font-weight: 400;
+  color: rgba(13, 110, 253, 0.5);
+  transition: color 0.15s ease-in-out;
+}
+
+.anchorjs-link {
+  opacity: 1;
+  text-decoration: none;
+  -webkit-font-smoothing: antialiased;
+}
+
+.pub_container {
+  display: grid; 
+  grid-template-columns: 1fr 4fr; 
+  grid-template-areas: 'sidebar main';
+}
+
+.pub_container aside {
+  grid-area: sidebar; 
+  display: block; 
+  position: sticky; 
+  top: 5rem; 
+  height: calc(100vh - 7rem);
+  padding-left: .25rem;
+  margin-left: -.25rem;
+  overflow-y: auto;
+}
+
+.pub_container .col-9 {
+  display: grid; 
+  grid-area: main; 
+  grid-template-columns: 4fr 1fr;
+  grid-template-rows: auto 1fr;
+}
+
+.pub_container h4 {
+  color: var(--bs-success);
+}
+
+.btn_publication {
+  border-width: 0;
+}
+
+.pub_bib_body {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #{tint-color($black, 97%)};
+}
+
+html {
+  scroll-padding-top: 4rem;
+}
+

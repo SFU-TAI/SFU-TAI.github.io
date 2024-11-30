@@ -1,0 +1,80 @@
+---
+permalink: /publication
+title: "Publication | Trustworthy AI Lab | Simon Fraser University"
+barename: publication
+redirect_from:
+  - /publication.html
+---
+
+<div class="container pub_container">
+  <aside>
+      <p class="text-muted">
+        * denotes to equal contribution.
+        <br>
+        Lab member names are bolded.
+      </p>
+      <hr>
+      {% assign year = -1 %}
+      {% for item in site.data.papers %}
+        {% if item.year != year %}
+          {% assign year = item.year %}
+          <a type="button" class="btn btn-outline-success btn_publication" href="#year_{{ item.year }}" >{{ item.year }}</a><br>
+        {% endif %}
+      {% endfor %}
+  </aside>
+
+  <div class="col-12">
+  <ol reversed>
+    {% assign year = -1 %}
+    {% for item in site.data.papers %}
+    {% if item.year != year %}
+    <h4 id="year_{{ item.year }}">{{ item.year }}<a class="anchorjs-link" aria-label="Anchor" data-anchorjs-icon="#" href="#year_{{ item.year }}" style="padding-left: 0.375em;">#</a></h4>
+    {% assign year = item.year %}
+    {% endif %}
+    <p>
+        <li>
+            {{ item.authors }}<br>
+            <strong>{{ item.title }}</strong><br>
+            <span style="font-style: italic">{{ item.source }}</span><br>
+            {% assign first = true %}
+            {% for l in item.links %}
+                {% if first != true %}
+                    &nbsp;
+                {% endif %}
+                <a href="{{ l.link }}" target="_blank">[{{ l.caption }}]</a>
+                {% assign first = false %}
+            {% endfor %}
+            {% if item.bib %}
+                &nbsp;
+                <a data-bs-toggle="collapse" href="#bib_full_{{ forloop.index }}" role="button" aria-expanded="false" data-bs-target="#bib_full_{{ forloop.index }}">
+                    [BibTex]
+                </a>
+                <!-- <div id="bib{{ forloop.index }}"> -->
+                <div class="collapse" id="bib_full_{{ forloop.index }}">
+                    <div class="card card-body pub_bib_body">
+                        {{item.bib}}
+                    </div>
+                </div>
+            {% endif %}
+            {% if item.tags %}
+                <p>
+                Topic:
+                {% for nowtag in item.tags %}
+                <span class="badge bg-light text-dark">
+                    {{ nowtag }}
+                </span>
+                {% endfor %}
+                </p>
+                {% endif %}
+                {% if item.tldr %}
+                <p class="text-muted fw-light">
+                    <strong>Summary:</strong>
+                    {{ item.tldr.en }}
+                </p>
+                {% endif %}
+        </li>
+    </p>
+    {% endfor %}
+  </ol>
+  </div>
+</div>
