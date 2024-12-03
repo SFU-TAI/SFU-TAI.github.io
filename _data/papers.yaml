@@ -153,6 +153,8 @@ url={https://openreview.net/forum?id=XN6ZPINdSg}<br>
   links:
     - caption: Full Version
       link: /assets/research_pubs/LI-LINYI-DISSERTATION-2023.pdf
+    - caption: Official Version
+      link: https://www.ideals.illinois.edu/items/129143
   tags:
     - certified ML
   year: 2023
