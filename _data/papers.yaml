@@ -95,6 +95,7 @@ year={2025},<br>
   links:
     - caption: Full Version in Preparation
       link: "#"
+  year: 2025
   bib: "@inproceedings{<br>
 li2025sparse,<br>
 title={Sparse Transfer Learning Accelerates and Enhances Certified Robustness: A Comprehensive Study},<br>
