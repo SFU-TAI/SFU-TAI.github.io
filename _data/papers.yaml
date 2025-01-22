@@ -38,27 +38,28 @@
 -
   title: "Collapsed Language Models Promote Fairness"
   authors: Jingxuan Xu, Wuyang Chen, <b>Linyi Li</b>, Yao Zhao, Yunchao Wei
-  source: arXiv
+  source: 13th International Conference on Learning Representations (ICLR 2025)
   links:
     - caption: Full Version
       link: https://arxiv.org/abs/2410.04472
+    - caption: Conference Version in Preparation
   tags:
     - LLM
     - fairness
-  year: Preprint
-  bib: "@article{xu2024collapsed,<br>
+  year: 2025
+  bib: "@inproceedings{xu2025collapsed,<br>
   title={Collapsed Language Models Promote Fairness},<br>
   author={Xu, Jingxuan and Chen, Wuyang and Li, Linyi and Zhao, Yao and Wei, Yunchao},<br>
-  journal={arXiv preprint arXiv:2410.04472},<br>
-  year={2024}<br>
+  booktitle={The Thirteenth International Conference on Learning Representations},<br>
+  year={2025}<br>
 }"
 -
   title: "Certified Trustworthiness in the Era of Large Language Models"
   authors: <b>Linyi Li</b>
   source: The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025) New Faculty Highlights
   links:
-    - caption: Talk Abstract in Preparation
-      link: "#"
+    - caption: Talk Abstract
+      link: "https://aaai.org/conference/aaai/aaai-25/new-faculty-highlights-program/"
   tags:
     - certified ML
   year: 2025
