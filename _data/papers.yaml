@@ -1,4 +1,22 @@
 -
+  title: "Benchmarking Large Language Models via Random Variables"
+  authors: Zijin Hong, Hao Wu, Su Dong, Junnan Dong, Yilin Xiao, Yujing Zhang, Zhu Wang, Feiran Huang, <b>Linyi Li</b>, Hongxia Yang, Xiao Huang
+  source: arXiv
+  links:
+    - caption: Full Version
+      link: https://arxiv.org/abs/2501.11790
+  tags:
+    - LLM
+    - benchmark
+    - code
+  year: Preprint
+  bib: "@article{hong2025benchmarking,<br>
+  title={Benchmarking Large Language Models via Random Variables},<br>
+  author={Hong, Zijin and Wu, Hao and Dong, Su and Dong, Junnan and Xiao, Yilin and Zhang, Yujing and Wang, Zhu and Huang, Feiran and Li, Linyi and Yang, Hongxia and others},<br>
+  journal={arXiv preprint arXiv:2501.11790},<br>
+  year={2025}<br>
+}"
+-
   title: "The First Prompt Counts the Most! An Evaluation of Large Language Models on Iterative Example-based Code Generation"
   authors: Yingjie Fu, Bozhou Li, <b>Linyi Li</b>, Wentao Zhang, Tao Xie
   source: arXiv
@@ -58,8 +76,12 @@
   authors: <b>Linyi Li</b>
   source: The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025) New Faculty Highlights
   links:
-    - caption: Talk Abstract
+    - caption: Talk URL
       link: "https://aaai.org/conference/aaai/aaai-25/new-faculty-highlights-program/"
+    - caption: Talk Abstract
+      link: "/assets/research_pubs/AAAI25_NFH.pdf"
+    - caption: Slides
+      link: "/assets/research_slides/AAAI2025-NFG-Linyi.pdf"
   tags:
     - certified ML
   year: 2025
@@ -89,22 +111,22 @@ booktitle={The Thirty-ninth Annual AAAI Conference on Artificial Intelligence},<
 year={2025},<br>
 }
 "
--
-  title: "Sparse Transfer Learning Accelerates and Enhances Certified Robustness: A Comprehensive Study"
-  authors: Zhangheng Li, Tianlong Chen, <b>Linyi Li</b>, Bo Li, Zhangyang Wang
-  source: The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025)
-  links:
-    - caption: Full Version in Preparation
-      link: "#"
-  year: 2025
-  bib: "@inproceedings{<br>
-li2025sparse,<br>
-title={Sparse Transfer Learning Accelerates and Enhances Certified Robustness: A Comprehensive Study},<br>
-author={Zhangheng Li and Tianlong Chen and Linyi Li and Bo Li and Zhangyang Wang},<br>
-booktitle={The Thirty-ninth Annual AAAI Conference on Artificial Intelligence},<br>
-year={2025},<br>
-}
-"
+# -
+#   title: "Sparse Transfer Learning Accelerates and Enhances Certified Robustness: A Comprehensive Study"
+#   authors: Zhangheng Li, Tianlong Chen, <b>Linyi Li</b>, Bo Li, Zhangyang Wang
+#   source: The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025)
+#   links:
+#     - caption: Full Version in Preparation
+#       link: "#"
+#   year: 2025
+#   bib: "@inproceedings{<br>
+# li2025sparse,<br>
+# title={Sparse Transfer Learning Accelerates and Enhances Certified Robustness: A Comprehensive Study},<br>
+# author={Zhangheng Li and Tianlong Chen and Linyi Li and Bo Li and Zhangyang Wang},<br>
+# booktitle={The Thirty-ninth Annual AAAI Conference on Artificial Intelligence},<br>
+# year={2025},<br>
+# }
+# "
 -
   title: "InfiBench: Evaluating the Question-Answering Capabilities of Code Large Language Models"
   authors: <b>Linyi Li</b>, Shijie Geng, Zhenwen Li, Yibo He, Hao Yu, Ziyue Hua, Guanghan Ning, Siwei Wang, Tao Xie, Hongxia Yang
