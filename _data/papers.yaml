@@ -928,7 +928,7 @@ url={https://openreview.net/forum?id=XN6ZPINdSg}<br>
   source: IEEE International Conference on Software Verification and Validation Workshops (ICSTW) 2017
   links:
     - caption: Paper
-      link: /assets/research_pubs/cloudapiicstw17.pdf
+      link: https://ieeexplore.ieee.org/document/7899088
   year: Before 2021
   tags:
     - software testing
