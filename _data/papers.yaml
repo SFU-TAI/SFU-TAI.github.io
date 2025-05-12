@@ -833,7 +833,9 @@ url={https://openreview.net/forum?id=XN6ZPINdSg}<br>
   source: ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE) 2020, Industry Track
   links:
     - caption: Paper
-      link: res/pub/clustep-fse2020ind.pdf
+      link: /assets/research_pubs/FSE2020_Industry_Clustep.pdf
+    - caption: Conference Version
+      link: https://dl.acm.org/doi/10.1145/3368089.3417067
     - caption: Video
       link: https://www.youtube.com/watch?v=6hd0o28vo0g
   year: Before 2021
@@ -928,7 +930,7 @@ url={https://openreview.net/forum?id=XN6ZPINdSg}<br>
   source: IEEE International Conference on Software Verification and Validation Workshops (ICSTW) 2017
   links:
     - caption: Paper
-      link: /assets/research_pubs/cloudapiicstw17.pdf
+      link: https://ieeexplore.ieee.org/document/7899088
   year: Before 2021
   tags:
     - software testing
