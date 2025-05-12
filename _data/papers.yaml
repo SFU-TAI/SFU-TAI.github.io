@@ -17,25 +17,6 @@
   year={2025}<br>
 }"
 -
-  title: "The First Prompt Counts the Most! An Evaluation of Large Language Models on Iterative Example-based Code Generation"
-  authors: Yingjie Fu, Bozhou Li, <b>Linyi Li</b>, Wentao Zhang, Tao Xie
-  source: arXiv
-  links:
-    - caption: Full Version
-      link: https://arxiv.org/abs/2411.06774
-  tags:
-    - LLM
-    - prompting
-    - benchmark
-    - code
-  year: Preprint
-  bib: "@article{fu2024first,<br>
-  title={The First Prompt Counts the Most! An Evaluation of Large Language Models on Iterative Example-based Code Generation},<br>
-  author={Fu, Yingjie and Li, Bozhou and Li, Linyi and Zhang, Wentao and Xie, Tao},<br>
-  journal={arXiv preprint arXiv:2411.06774},<br>
-  year={2024}<br>
-}"
--
   title: "Unconstrained Model Merging for Enhanced LLM Reasoning"
   authors: Yiming Zhang, Baoyi He, Shengyu Zhang, Yuhao Fu, Qi Zhou, Zhijie Sang, Zijin Hong, Kejing Yang, Wenjun Wang, Jianbo Yuan, Guanghan Ning, <b>Linyi Li</b>, Chunlin Ji, Fei Wu, Hongxia Yang
   source: arXiv
@@ -52,6 +33,27 @@
   author={Zhang, Yiming and He, Baoyi and Zhang, Shengyu and Fu, Yuhao and Zhou, Qi and Sang, Zhijie and Hong, Zijin and Yang, Kejing and Wang, Wenjun and Yuan, Jianbo and others},<br>
   journal={arXiv preprint arXiv:2410.13699},<br>
   year={2024}<br>
+}"
+-
+  title: "The First Prompt Counts the Most! An Evaluation of Large Language Models on Iterative Example-based Code Generation"
+  authors: Yingjie Fu, Bozhou Li, <b>Linyi Li</b>, Wentao Zhang, Tao Xie
+  source: 34th International Symposium on Software Testing and Analysis (ISSTA 2025)
+  links:
+    - caption: ArXiv Version
+      link: https://arxiv.org/abs/2411.06774
+    - caption: Conference Version
+      link: /assets/research_pubs/issta25main-p832.pdf
+  tags:
+    - LLM
+    - prompting
+    - benchmark
+    - code
+  year: 2025
+  bib: "@inproceedings{fu2025first,<br>
+  title={The First Prompt Counts the Most! An Evaluation of Large Language Models on Iterative Example-based Code Generation},<br>
+  author={Fu, Yingjie and Li, Bozhou and Li, Linyi and Zhang, Wentao and Xie, Tao},<br>
+  booktitle={The 34th ACM SIGSOFT International Symposium on Software Testing and Analysis},<br>
+  year={2025}<br>
 }"
 -
   title: "Collapsed Language Models Promote Fairness"
