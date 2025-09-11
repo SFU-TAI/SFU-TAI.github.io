@@ -62,7 +62,8 @@
   links:
     - caption: Full Version
       link: https://arxiv.org/abs/2410.04472
-    - caption: Conference Version in Preparation
+    - caption: Conference Version
+      link: https://openreview.net/forum?id=kynD1UUk6q
   tags:
     - LLM
     - fairness
@@ -100,8 +101,12 @@ year={2025},<br>
   authors: Zijian Huang, Wenda Chu, <b>Linyi Li</b>, Chejian Xu, Bo Li
   source: The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025)
   links:
-    - caption: Full Version in Preparation
-      link: "#"
+    - caption: Conference Version
+      link: "https://ojs.aaai.org/index.php/AAAI/article/view/33927"
+    - caption: Appendix for Conference Version
+      link: /assets/research_pubs/COMMIT_Certifying_Robust_Supplementary_Material.pdf
+    # - caption: Full Version
+    #   link: https://arxiv.org/abs/2403.02329
   tags:
     - certified ML
   year: 2025
@@ -113,22 +118,22 @@ booktitle={The Thirty-ninth Annual AAAI Conference on Artificial Intelligence},<
 year={2025},<br>
 }
 "
-# -
-#   title: "Sparse Transfer Learning Accelerates and Enhances Certified Robustness: A Comprehensive Study"
-#   authors: Zhangheng Li, Tianlong Chen, <b>Linyi Li</b>, Bo Li, Zhangyang Wang
-#   source: The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025)
-#   links:
-#     - caption: Full Version in Preparation
-#       link: "#"
-#   year: 2025
-#   bib: "@inproceedings{<br>
-# li2025sparse,<br>
-# title={Sparse Transfer Learning Accelerates and Enhances Certified Robustness: A Comprehensive Study},<br>
-# author={Zhangheng Li and Tianlong Chen and Linyi Li and Bo Li and Zhangyang Wang},<br>
-# booktitle={The Thirty-ninth Annual AAAI Conference on Artificial Intelligence},<br>
-# year={2025},<br>
-# }
-# "
+-
+  title: "Sparse Transfer Learning Accelerates and Enhances Certified Robustness: A Comprehensive Study"
+  authors: Zhangheng Li, Tianlong Chen, <b>Linyi Li</b>, Bo Li, Zhangyang Wang
+  source: The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025)
+  links:
+    - caption: Paper
+      link: "https://ojs.aaai.org/index.php/AAAI/article/view/32539"
+  year: 2025
+  bib: "@inproceedings{<br>
+li2025sparse,<br>
+title={Sparse Transfer Learning Accelerates and Enhances Certified Robustness: A Comprehensive Study},<br>
+author={Zhangheng Li and Tianlong Chen and Linyi Li and Bo Li and Zhangyang Wang},<br>
+booktitle={The Thirty-ninth Annual AAAI Conference on Artificial Intelligence},<br>
+year={2025},<br>
+}
+"
 -
   title: "InfiBench: Evaluating the Question-Answering Capabilities of Code Large Language Models"
   authors: <b>Linyi Li</b>, Shijie Geng, Zhenwen Li, Yibo He, Hao Yu, Ziyue Hua, Guanghan Ning, Siwei Wang, Tao Xie, Hongxia Yang
