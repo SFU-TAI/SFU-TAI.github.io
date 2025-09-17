@@ -6,6 +6,91 @@ redirect_from:
   - /people.html
 ---
 
+<style>
+  .profile-card-large {
+      margin: 50px auto;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      border-radius: 15px;
+      overflow: hidden;
+      border: none;
+  }
+
+  .profile-card {
+      max-width: 600px;
+      margin: 50px auto;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      border-radius: 15px;
+      overflow: hidden;
+      border: none;
+  }
+  
+  .profile-image-container {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+      background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  }
+
+  .profile-image {
+      width: 120px;
+      height: 120px;
+      object-fit: cover;
+      border-radius: 50%;
+      /* border: 4px solid white; */
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+      transition: transform 0.3s ease;
+  }
+  
+  .profile-image:hover {
+      transform: scale(1.05);
+  }
+  
+  .profile-content {
+      padding: 25px;
+      background: white;
+  }
+  
+  .profile-name {
+      font-size: 1.5rem;
+      font-weight: 600;
+      color: #2c3e50;
+      margin-bottom: 10px;
+  }
+  
+  .profile-title {
+      color: #7f8c8d;
+      font-size: 1rem;
+      margin-bottom: 15px;
+  }
+  
+  .profile-description {
+      color: #34495e;
+      line-height: 1.6;
+      font-size: 0.95rem;
+  }
+  
+  /* 响应式设计 */
+  @media (max-width: 768px) {
+      .profile-card {
+          margin: 20px;
+      }
+      
+      .profile-image-container {
+          padding: 15px;
+      }
+      
+      .profile-image {
+          width: 100px;
+          height: 100px;
+      }
+      
+      .profile-content {
+          padding: 20px;
+      }
+  }
+</style>
+
 <div class="alert alert-success" role="alert">
   <b>Our lab is looking for strongly motivated PhD students starting from Fall 2026! Check <a href="/joinus">here</a> for more information.</b>
 </div>
@@ -16,13 +101,13 @@ redirect_from:
     <a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="#" href="#pi_div" style="padding-left: 0.375em;">#</a>
   </h4>
 
-  <div class="card">
-    <div class="row g-0 align-items-center">
-      <div class="col-md-2">
-        <img src="/assets/imgs/people_avatars/linyili.png" class="img-fluid rounded-start" alt="linyi li avatar">
+  <div class="card profile-card-large">
+    <div class="row">
+      <div class="col-md-2 profile-image-container">
+        <img src="/assets/imgs/people_avatars/linyili.png" class="profile-image" alt="linyi li avatar">
       </div>
       <div class="col-md-10">
-        <div class="card-body">
+        <div class="card-body profile-content d-flex flex-column justify-content-center w-100">
           <div class="card-title"><h5>Dr. Linyi Li &nbsp; <span class="text-muted">he/him/his</span></h5></div>
           <p class="card-text"><a type="button" class="btn btn-outline-success" href="https://linyil.com/" target="_blank">Personal Webpage</a>&nbsp; <a type="button" class="btn btn-outline-success" href="mailto:linyi_li@sfu.ca">Email</a></p>
           <p class="card-text">
@@ -44,17 +129,19 @@ redirect_from:
   </h4>
 
   <div class="row">
+    
     <div class="col-md-6">
-      <div class="card">
+      <div class="card profile-card">
         <div class="row">
-          <div class="col-md-3">
-            
+          <div class="col-md-3 profile-image-container">
+            <img src="/assets/imgs/people_avatars/default.jpg" class="profile-image" alt="peng he avatar">
           </div>
           <div class="col-md-9">
-            <div class="card-body">
+            <div class="card-body profile-content d-flex flex-column justify-content-center w-100">
               <div class="card-title"><h5>Peng He &nbsp; <span class="text-muted">2025-present</span></h5></div>
               <p class="card-text">
                 <ul>
+                  <li>To be updated.</li>
                 </ul>
               </p>
             </div>
@@ -64,16 +151,18 @@ redirect_from:
     </div>
 
     <div class="col-md-6">
-      <div class="card">
+      <div class="card profile-card">
         <div class="row">
-          <div class="col-md-3">
-            
+          <div class="col-md-3 profile-image-container">
+            <img src="/assets/imgs/people_avatars/zhewang.jpeg" class="profile-image" alt="zhe wang avatar">
           </div>
           <div class="col-md-9">
-            <div class="card-body">
+            <div class="card-body profile-content d-flex flex-column justify-content-center w-100">
               <div class="card-title"><h5>Zhe Wang &nbsp; <span class="text-muted">2025-present</span></h5></div>
+              <p class="card-text"><a type="button" class="btn btn-outline-success" href="https://yoyostudy.github.io/" target="_blank">Personal Website</a>&nbsp; <a type="button" class="btn btn-outline-success" href="https://www.linkedin.com/in/zhe-zoe-wang/" target="_blank">LinkedIn</a></p>
               <p class="card-text">
                 <ul>
+                  <li>Zhe Wang's primary research interest lies in the theoretical foundations of model structure, interpretability, learning algorithms, and reinforcement learning. At the same time, she cares about socially responsible AI in practice, with applications in red teaming, safety, and AI governance.</li>
                 </ul>
               </p>
             </div>
@@ -110,6 +199,7 @@ redirect_from:
   <ul>
     <li><a href="https://wenxianghe.com/">Wenxiang He</a> (2025-present): Undergrad & (now) master student @ SFU</li>
     <li><a href="https://ca.linkedin.com/in/xiaohe-hu">Xiaohe Hu</a> (2025-present): now master student @ SFU, undergrad @ UBC</li>
+    <li><a href="https://ca.linkedin.com/in/faiza-tabassum-43007027a">Faiza Tabassum</a> (2025-present): Undergrad @ SFU</li>
     <li><a href="https://mohammadjafari80.github.io/" target="_blank">Mohammad Jafari</a> (2024): remote undergrad intern from Sharif University of Technology @ SFU</li>
     <li><a href="https://chuwd19.github.io/index.html" target="_blank">Wenda Chu</a> (2021-2022): remote undergrad intern from Tsinghua @ UIUC, now PhD student @ California Institute of Technology</li>
     <li><a href="https://kangmintong.github.io/" target="_blank">Mintong Kang</a> (2021-2022): remote undergrad intern from Zhejiang University @ UIUC, now PhD student @ UIUC</li>
