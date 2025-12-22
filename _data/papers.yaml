@@ -1,25 +1,76 @@
 -
-  title: "Benchmarking Large Language Models via Random Variables"
-  authors: Zijin Hong, Hao Wu, Su Dong, Junnan Dong, Yilin Xiao, Yujing Zhang, Zhu Wang, Feiran Huang, <b>Linyi Li</b>, Hongxia Yang, Xiao Huang
-  source: arXiv
+  title: "KernelBand: Boosting LLM-based Kernel Optimization with a Hierarchical and Hardware-aware Multi-armed Bandit"
+  authors: Dezhi Ran, Shuxiao Xie, Mingfang Ji, Ziyue Hua, Mengzhou Wu, Yuan Cao, Yuzhe Guo, Yu Hao, <b>Linyi Li</b>, Yitao Hu, Tao Xie
+  source: arXiv:2511.18868
+  links:
+    - caption: Preprint (work in progress)
+      link: https://arxiv.org/abs/2511.18868
+  tags:
+    - LLM
+    - ML system
+  year: Preprint
+  bib: "@article{ran2025kernelband,<br>
+  title={KernelBand: Boosting LLM-based Kernel Optimization with a Hierarchical and Hardware-aware Multi-armed Bandit},<br>
+  author={Ran, Dezhi and Xie, Shuxiao and Ji, Mingfang and Hua, Ziyue and Wu, Mengzhou and Cao, Yuan and Guo, Yuzhe and Hao, Yu and Li, Linyi and Hu, Yitao and others},<br>
+  journal={arXiv preprint arXiv:2511.18868},<br>
+  year={2025}<br>
+}"
+-
+  title: "AppForge: From Assistant to Independent Developer - Are GPTs Ready for Software Development?"
+  authors: Dezhi Ran, Yuan Cao, Mengzhou Wu, Simin Chen, Yuzhe Guo, Jun Ren, Zihe Song, Hao Yu, Jialei Wei, <b>Linyi Li</b>, Wei Yang, Baishakhi Ray, Tao Xie
+  source: arXiv:2510.07740
   links:
     - caption: Full Version
-      link: https://arxiv.org/abs/2501.11790
+      link: https://arxiv.org/abs/2510.07740
   tags:
     - LLM
     - benchmark
     - code
   year: Preprint
-  bib: "@article{hong2025benchmarking,<br>
-  title={Benchmarking Large Language Models via Random Variables},<br>
-  author={Hong, Zijin and Wu, Hao and Dong, Su and Dong, Junnan and Xiao, Yilin and Zhang, Yujing and Wang, Zhu and Huang, Feiran and Li, Linyi and Yang, Hongxia and others},<br>
-  journal={arXiv preprint arXiv:2501.11790},<br>
+  bib: "@article{ran2025appforge,<br>
+  title={AppForge: From Assistant to Independent Developer--Are GPTs Ready for Software Development?},<br>
+  author={Ran, Dezhi and Cao, Yuan and Wu, Mengzhou and Chen, Simin and Guo, Yuzhe and Ren, Jun and Song, Zihe and Yu, Hao and Wei, Jialei and Li, Linyi and others},<br>
+  journal={arXiv preprint arXiv:2510.07740},<br>
   year={2025}<br>
+}"
+-
+  title: "Data and System Perspectives of Sustainable Artificial Intelligence"
+  authors: Tao Xie, David Harel, Dezhi Ran, Zhenwen Li, Maoliang Li, Zhi Yang, Leye Wang, Xiang Chen, Ying Zhang, Wentao Zhang, Meng Li, Chen Zhang, <b>Linyi Li</b>, Assaf Marron
+  source: arXiv:2501.07487
+  links:
+    - caption: Full Version
+      link: https://arxiv.org/abs/2501.07487
+  tags:
+    - ML system
+  year: Preprint
+  bib: "@article{xie2025data,<br>
+  title={Data and System Perspectives of Sustainable Artificial Intelligence},<br>
+  author={Xie, Tao and Harel, David and Ran, Dezhi and Li, Zhenwen and Li, Maoliang and Yang, Zhi and Wang, Leye and Chen, Xiang and Zhang, Ying and Zhang, Wentao and others},<br>
+  journal={arXiv preprint arXiv:2501.07487},<br>
+  year={2025}<br>
+}"
+- 
+  title: "FullStack Bench: Evaluating LLMs as Full Stack Coders"
+  authors: Bytedance Seed Foundation Code Team (including <b>Linyi Li</b>)
+  source: arXiv:2412.00535
+  links:
+    - caption: Full Version
+      link: https://arxiv.org/abs/2412.00535
+  tags:
+    - LLM
+    - benchmark
+    - code
+  year: Preprint
+  bib: "@article{cheng2024fullstack,<br>
+  title={FullStack Bench: Evaluating LLMs as Full Stack Coders},<br>
+  author={Cheng, Yao and Chen, Jianfeng and Chen, Jie and Chen, Li and Chen, Liyu and Chen, Wentao and Chen, Zhengyu and Geng, Shijie and Li, Aoyan and Li, Bo and others},<br>
+  journal={arXiv preprint arXiv:2412.00535},<br>
+  year={2024}<br>
 }"
 -
   title: "Unconstrained Model Merging for Enhanced LLM Reasoning"
   authors: Yiming Zhang, Baoyi He, Shengyu Zhang, Yuhao Fu, Qi Zhou, Zhijie Sang, Zijin Hong, Kejing Yang, Wenjun Wang, Jianbo Yuan, Guanghan Ning, <b>Linyi Li</b>, Chunlin Ji, Fei Wu, Hongxia Yang
-  source: arXiv
+  source: arXiv:2410.13699
   links:
     - caption: Full Version
       link: https://arxiv.org/abs/2410.13699
@@ -33,6 +84,26 @@
   author={Zhang, Yiming and He, Baoyi and Zhang, Shengyu and Fu, Yuhao and Zhou, Qi and Sang, Zhijie and Hong, Zijin and Yang, Kejing and Wang, Wenjun and Yuan, Jianbo and others},<br>
   journal={arXiv preprint arXiv:2410.13699},<br>
   year={2024}<br>
+}"
+-
+  title: "Benchmarking LLMs' Mathematical Reasoning with Unseen Random Variables Questions"
+  authors: Zijin Hong, Hao Wu, Su Dong, Junnan Dong, Yilin Xiao, Yujing Zhang, Zhu Wang, Feiran Huang, <b>Linyi Li</b>, Hongxia Yang, Xiao Huang
+  source: The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)
+  links:
+    - caption: Full Version
+      link: https://arxiv.org/abs/2501.11790
+    - caption: Conference Version in Preparation
+      link: #
+  tags:
+    - LLM
+    - benchmark
+    - reasoning
+  year: 2026
+  bib: "@inproceedings{hong2026benchmarking,<br>
+  title={Benchmarking LLMs' Mathematical Reasoning with Unseen Random Variables Questions},<br>
+  author={Zijin Hong and Hao Wu and Su Dong and Junnan Dong and Yilin Xiao and Yujing Zhang and Zhu Wang and Feiran Huang and Linyi Li and Hongxia Yang and Xiao Huang},<br>
+  booktitle={The Fortieth Annual AAAI Conference on Artificial Intelligence},<br>
+  year={2026},<br>
 }"
 -
   title: "The First Prompt Counts the Most! An Evaluation of Large Language Models on Iterative Example-based Code Generation"
