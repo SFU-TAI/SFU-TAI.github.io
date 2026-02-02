@@ -16,24 +16,6 @@
   year={2025}<br>
 }"
 -
-  title: "AppForge: From Assistant to Independent Developer - Are GPTs Ready for Software Development?"
-  authors: Dezhi Ran, Yuan Cao, Mengzhou Wu, Simin Chen, Yuzhe Guo, Jun Ren, Zihe Song, Hao Yu, Jialei Wei, <b>Linyi Li</b>, Wei Yang, Baishakhi Ray, Tao Xie
-  source: arXiv:2510.07740
-  links:
-    - caption: Full Version
-      link: https://arxiv.org/abs/2510.07740
-  tags:
-    - LLM
-    - benchmark
-    - code
-  year: Preprint
-  bib: "@article{ran2025appforge,<br>
-  title={AppForge: From Assistant to Independent Developer--Are GPTs Ready for Software Development?},<br>
-  author={Ran, Dezhi and Cao, Yuan and Wu, Mengzhou and Chen, Simin and Guo, Yuzhe and Ren, Jun and Song, Zihe and Yu, Hao and Wei, Jialei and Li, Linyi and others},<br>
-  journal={arXiv preprint arXiv:2510.07740},<br>
-  year={2025}<br>
-}"
--
   title: "Data and System Perspectives of Sustainable Artificial Intelligence"
   authors: Tao Xie, David Harel, Dezhi Ran, Zhenwen Li, Maoliang Li, Zhi Yang, Leye Wang, Xiang Chen, Ying Zhang, Wentao Zhang, Meng Li, Chen Zhang, <b>Linyi Li</b>, Assaf Marron
   source: arXiv:2501.07487
@@ -84,6 +66,26 @@
   author={Zhang, Yiming and He, Baoyi and Zhang, Shengyu and Fu, Yuhao and Zhou, Qi and Sang, Zhijie and Hong, Zijin and Yang, Kejing and Wang, Wenjun and Yuan, Jianbo and others},<br>
   journal={arXiv preprint arXiv:2410.13699},<br>
   year={2024}<br>
+}"
+-
+  title: "AppForge: From Assistant to Independent Developer - Are GPTs Ready for Software Development?"
+  authors: Dezhi Ran, Yuan Cao, Mengzhou Wu, Simin Chen, Yuzhe Guo, Jun Ren, Zihe Song, Hao Yu, Jialei Wei, <b>Linyi Li</b>, Wei Yang, Baishakhi Ray, Tao Xie
+  source: 14th International Conference on Learning Representations (ICLR 2026)
+  links:
+    - caption: Full Version
+      link: https://arxiv.org/abs/2510.07740
+    - caption: Conference Version
+      link: https://openreview.net/forum?id=XrP8dp1rCg
+  tags:
+    - LLM
+    - benchmark
+    - code
+  year: 2026
+  bib: "@inproceedings{ran2026appforge,<br>
+  title={{AppForge}: From Assistant to Independent Developer--Are GPTs Ready for Software Development?},<br>
+  author={Ran, Dezhi and Cao, Yuan and Wu, Mengzhou and Chen, Simin and Guo, Yuzhe and Ren, Jun and Song, Zihe and Yu, Hao and Wei, Jialei and Li, Linyi and others},<br>
+  booktitle={The Fourteenth International Conference on Learning Representations},<br>
+  year={2026},<br>
 }"
 -
   title: "Benchmarking LLMs' Mathematical Reasoning with Unseen Random Variables Questions"
