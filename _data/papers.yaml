@@ -1,21 +1,4 @@
 -
-  title: "KernelBand: Boosting LLM-based Kernel Optimization with a Hierarchical and Hardware-aware Multi-armed Bandit"
-  authors: Dezhi Ran, Shuxiao Xie, Mingfang Ji, Ziyue Hua, Mengzhou Wu, Yuan Cao, Yuzhe Guo, Yu Hao, <b>Linyi Li</b>, Yitao Hu, Tao Xie
-  source: arXiv:2511.18868
-  links:
-    - caption: Preprint (work in progress)
-      link: https://arxiv.org/abs/2511.18868
-  tags:
-    - LLM
-    - ML system
-  year: Preprint
-  bib: "@article{ran2025kernelband,<br>
-  title={KernelBand: Boosting LLM-based Kernel Optimization with a Hierarchical and Hardware-aware Multi-armed Bandit},<br>
-  author={Ran, Dezhi and Xie, Shuxiao and Ji, Mingfang and Hua, Ziyue and Wu, Mengzhou and Cao, Yuan and Guo, Yuzhe and Hao, Yu and Li, Linyi and Hu, Yitao and others},<br>
-  journal={arXiv preprint arXiv:2511.18868},<br>
-  year={2025}<br>
-}"
--
   title: "Data and System Perspectives of Sustainable Artificial Intelligence"
   authors: Tao Xie, David Harel, Dezhi Ran, Zhenwen Li, Maoliang Li, Zhi Yang, Leye Wang, Xiang Chen, Ying Zhang, Wentao Zhang, Meng Li, Chen Zhang, <b>Linyi Li</b>, Assaf Marron
   source: arXiv:2501.07487
@@ -67,6 +50,42 @@
   journal={arXiv preprint arXiv:2410.13699},<br>
   year={2024}<br>
 }"
+-
+  title: "KernelBand: Steering LLM-based Kernel Optimization via Hardware-Aware Multi-Armed Bandits"
+  authors: Dezhi Ran, Shuxiao Xie, Mingfang Ji, Ziyue Hua, Mengzhou Wu, Yuan Cao, Yuzhe Guo, Yu Hao, <b>Linyi Li</b>, Yitao Hu, Tao Xie
+  source: Forty-third International Conference on Machine Learning (ICML 2026)
+  links:
+    - caption: Preprint
+      link: https://arxiv.org/abs/2511.18868
+  tags:
+    - LLM
+    - ML system
+  year: 2026
+  bib: "@inproceedings{ran2026kernelband,<br>
+  title={KernelBand: Steering LLM-based Kernel Optimization via Hardware-Aware Multi-Armed Bandits},<br>
+  author={Ran, Dezhi and Xie, Shuxiao and Ji, Mingfang and Hua, Ziyue and Wu, Mengzhou and Cao, Yuan and Guo, Yuzhe and Hao, Yu and Li, Linyi and Hu, Yitao and others},<br>
+  booktitle={Forty-third International Conference on Machine Learning},<br>
+  year={2026},<br>
+  url={https://openreview.net/forum?id=d8e2jBfMpE}<br>
+}"
+-
+  title: "PR-XAI: PageRank-Based Feature Attribution for Transformers"
+  authors: Behrooz Azarkhalili, <b>Linyi Li</b>, Maxwell W. Libbrecht
+  source: The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026 Main)
+  links:
+    - caption: Conference Version
+      link: /assets/research_pubs/PR_XAI_ACL2026.pdf
+  tags:
+    - LLM
+    - Explainability
+  year: 2026
+  bib: "@inproceedings{azarkhalili2026prxai,<br>
+  title={{PR}-{XAI}: PageRank-Based Feature Attribution for Transformers},<br>
+  author={Behrooz Azarkhalili and Linyi Li and Maxwell W. Libbrecht},<br>
+  booktitle={The 64th Annual Meeting of the Association for Computational Linguistics},<br>
+  year={2026},<br>
+  url={https://openreview.net/forum?id=wnMaHKtVOo}<br>
+  }"
 -
   title: "AppForge: From Assistant to Independent Developer - Are GPTs Ready for Software Development?"
   authors: Dezhi Ran, Yuan Cao, Mengzhou Wu, Simin Chen, Yuzhe Guo, Jun Ren, Zihe Song, Hao Yu, Jialei Wei, <b>Linyi Li</b>, Wei Yang, Baishakhi Ray, Tao Xie
