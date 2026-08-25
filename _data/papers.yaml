@@ -51,12 +51,33 @@
   year={2024}<br>
 }"
 -
+  title: "UI-Oceanus: Scaling GUI Agents with Synthetic Environmental Dynamics"
+  authors: Mengzhou Wu, Yuzhe Guo, Yuan Cao, Haochuan Lu, Shen Zhu, Pingzhe Qu, Xin Chen, Kang Qin, Zhongpu Wang, Xiaode Zhang, Xinyi Wang, Wei Dai, Gang Cao, Yuetang Deng, Gong Zhi, Dezhi Ran, <b>Linyi Li</b>, Wei Yang, Tao Xie 
+  source: The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026 Findings)
+  links:
+    - caption: Preprint
+      link: https://arxiv.org/abs/2604.02345
+  tags:
+    - LLM
+    - midtrain
+  year: 2026
+  bib: "@inproceedings{<br>
+anonymous2026uioceanus,<br>
+title={{UI}-Oceanus: Scaling {GUI} Agents with Synthetic Environmental Dynamics},<br>
+author={Mengzhou Wu and Yuzhe Guo and Yuan Cao and Haochuan Lu and Shen Zhu and Pingzhe Qu and Xin Chen and Kang Qin and Zhongpu Wang and Xiaode Zhang and Xinyi Wang and Wei Dai and Gang Cao and yuetang deng and Gong Zhi and Dezhi Ran and Linyi Li and Wei Yang and Tao Xie},<br>
+booktitle={The 2026 Conference on Empirical Methods in Natural Language Processing},<br>
+year={2026},<br>
+url={https://openreview.net/forum?id=KXQEDCLQWb}<br>
+}"
+-
   title: "KernelBand: Steering LLM-based Kernel Optimization via Hardware-Aware Multi-Armed Bandits"
   authors: Dezhi Ran, Shuxiao Xie, Mingfang Ji, Ziyue Hua, Mengzhou Wu, Yuan Cao, Yuzhe Guo, Yu Hao, <b>Linyi Li</b>, Yitao Hu, Tao Xie
   source: Forty-third International Conference on Machine Learning (ICML 2026)
   links:
     - caption: Preprint
       link: https://arxiv.org/abs/2511.18868
+    - caption: Conference Version
+      link: https://openreview.net/forum?id=d8e2jBfMpE
   tags:
     - LLM
     - ML system
@@ -74,7 +95,7 @@
   source: The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026 Main)
   links:
     - caption: Conference Version
-      link: /assets/research_pubs/PR_XAI_ACL2026.pdf
+      link: https://aclanthology.org/2026.acl-long.22/
   tags:
     - LLM
     - Explainability
