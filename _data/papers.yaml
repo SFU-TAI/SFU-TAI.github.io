@@ -51,6 +51,25 @@
   year={2024}<br>
 }"
 -
+  title: "FocusBranch: Combinatorial Branch-and-Bound for $\ell_0$ Neural Network Robustness Verification"
+  authors: Renwei Deng, Yang He, <b>Linyi Li</b>, Yuepeng Wang
+  source: Advances in Neural Information Processing Systems (NeurIPS) 2026
+  links:
+    - caption: Paper (to appear soon)
+      link: "#"
+  tags:
+    - certified ML
+  year: 2026
+  bib: "@inproceedings{<br>
+deng2026focusbranch,<br>
+title={FocusBranch: Combinatorial Branch-and-Bound for L0 Neural Network Robustness Verification},<br>
+author={Renwei Deng and Yang He and Linyi Li and Yuepeng Wang},<br>
+booktitle={Advances in Neural Information Processing Systems (to appear)},<br>
+volume = {39},<br>
+year={2026},<br>
+}
+"
+-
   title: "UI-Oceanus: Scaling GUI Agents with Synthetic Environmental Dynamics"
   authors: Mengzhou Wu, Yuzhe Guo, Yuan Cao, Haochuan Lu, Shen Zhu, Pingzhe Qu, Xin Chen, Kang Qin, Zhongpu Wang, Xiaode Zhang, Xinyi Wang, Wei Dai, Gang Cao, Yuetang Deng, Gong Zhi, Dezhi Ran, <b>Linyi Li</b>, Wei Yang, Tao Xie 
   source: The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026 Findings)
@@ -271,7 +290,8 @@ year={2025},<br>
 li2024infibench,<br>
 title={InfiBench: Evaluating the Question-Answering Capabilities of Code Large Language Models},<br>
 author={Linyi Li and Shijie Geng and Zhenwen Li and Yibo He and Hao Yu and Ziyue Hua and Guanghan Ning and Siwei Wang and Tao Xie and Hongxia Yang},<br>
-booktitle={The Thirty-eight Conference on Neural Information Processing Systems Datasets and Benchmarks Track},<br>
+booktitle={Advances in Neural Information Processing Systems},<br>
+volume = {37},<br>
 year={2024},<br>
 }
 "
