@@ -51,7 +51,7 @@
   year={2024}<br>
 }"
 -
-  title: "FocusBranch: Combinatorial Branch-and-Bound fo \\(\\ell_2\\) Neural Network Robustness Verification"
+  title: "FocusBranch: Combinatorial Branch-and-Bound fo \\(\\ell_0\\) Neural Network Robustness Verification"
   authors: Renwei Deng, Yang He, <b>Linyi Li</b>, Yuepeng Wang
   source: Advances in Neural Information Processing Systems (NeurIPS) 2026
   links:
